@@ -7,8 +7,9 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://kuty.me/
+Host: https://16f6-2405-201-2006-7a00-f5dd-7651-4788-f904.ngrok.io
 
 # Sitemaps
-Sitemap: https://kuty.me/sitemap.xml
-Sitemap: https://kuty.me/server-sitemap.xml
+Sitemap: https://16f6-2405-201-2006-7a00-f5dd-7651-4788-f904.ngrok.io/sitemap.xml
+Sitemap: https://16f6-2405-201-2006-7a00-f5dd-7651-4788-f904.ngrok.iositemap.xml
+Sitemap: https://16f6-2405-201-2006-7a00-f5dd-7651-4788-f904.ngrok.ioserver-sitemap.xml
